@@ -28,7 +28,7 @@
 | Frontend | React 19, Vite, TypeScript, `react-markdown` |
 | Backend | FastAPI, uvicorn |
 | Agent | PydanticAI (`pydantic-ai-slim[openai]`) on the OpenAI Responses API |
-| Model | `gpt-6-luna` through the [Portkey](https://portkey.ai) gateway |
+| Model | `gpt-6-astra` through the [Portkey](https://portkey.ai) gateway |
 | Data | `data/yale_som_classes.json` (catalog) and `data/yale_som.db` (SQLite, used by the agent) |
 
 ## Project layout
